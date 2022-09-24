@@ -1,4 +1,3 @@
-# Template-for-1-1-Personal-training
 # FitMe
 FitMe gym django based website 
 
@@ -54,3 +53,4 @@ The importance of  fitness and gym is growing up day by day,this website provide
 to manage daily task and fulfils all the requirements of user and it provides an easy interface to navigate.We have used django/python and javascript to developed the
 interface for keeping daily exercise tracker.
 And help to improve your cardiovascular system, strengthen your muscles, help you maintain your weight, boost your mental health and decrease the odds that you'll develop other health conditions.
+
